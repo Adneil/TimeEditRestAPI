@@ -3,7 +3,7 @@
     <h2>TimeEdit Rest API</h2>
     <h3>Welcome to TimeEdit Rest API!</h3>
    
-<p>This API is for grouproom reservations at Campus Gotland only. </p>
+<p>This API is modeled for grouproom reservations at Campus Gotland only. </p>
 
 <p>Available commands:</p>
 
