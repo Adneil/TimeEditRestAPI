@@ -1,8 +1,32 @@
 <html>
 <body>
-    <h2>Jersey RESTful Web Application!</h2>
-    <p><a href="webapi/myresource">Jersey resource</a>
-    <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
-    for more information on Jersey!
+    <h2>TimeEdit Rest API</h2>
+    <h3>Welcome to TimeEdit Rest API!</h3>
+   
+<p>This API is modeled for grouproom reservations at Campus Gotland. </p>
+
+<p>Available commands:</p>
+
+<p>
+/reservations
+<br>
+Fetches all reservations within 36 weeks from today.
+</p>
+
+<p>
+/reservations/room/{roomname}
+<br>
+Get reservations for a specific room.
+</p>
+
+<p>
+/reservations/id/{id}
+<br>
+Get details about a specific reservation.
+</p>
+
+
+    <p><a href="reservations">View Reservations</a>
+
 </body>
 </html>

@@ -18,7 +18,7 @@ import javax.ws.rs.core.Response.ResponseBuilder;
  *
  */
 
-@Path("reservations")
+@Path("")
 public class ReservationResource {
 	
 	ReservationRepository repo;
